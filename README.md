@@ -16,7 +16,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=typescript)
   ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=6092c7)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?logo=ruby&logoColor=FF0000)
-  <!-- ![Python](https://img.shields.io/badge/-Python-333333?logo=python) -->
+  ![Python](https://img.shields.io/badge/-Python-333333?logo=python)
   <!-- ![Java](https://img.shields.io/badge/-Java-333333?logo=java&logoColor=6f9cf3) -->
 
   ### 🚀 Frameworks
@@ -32,11 +32,10 @@
   ![Jest](https://img.shields.io/badge/Jest-333333?logo=jest&logoColor=C21325)
   ![Vue](https://img.shields.io/badge/-Vue.js-333333?logo=vue.js)
   ![Font_Awesome](https://img.shields.io/badge/-Font_Awesome-333333?logo=fontawesome&logoColor=339AF0)
-  <!-- ![React](https://img.shields.io/badge/-React-333333?logo=react) -->
-  <!-- ![Mocha](https://img.shields.io/badge/-Mocha-333333?logo=Mocha&logoColor=8D6748) -->
-  <!-- ![Chai](https://img.shields.io/badge/Chai-333333?logo=chai&logoColor=f8272f) -->
+  ![React](https://img.shields.io/badge/-React-333333?logo=react)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?logo=Mocha&logoColor=8D6748)
+  ![Chai](https://img.shields.io/badge/Chai-333333?logo=chai&logoColor=f8272f)
   <!-- ![Gradle](https://img.shields.io/badge/gradle-333333?logo=gradle&logoColor=02303A) -->
-  <!-- ![Babel](https://img.shields.io/badge/-Babel-333333?logo=babel&logoColor=yelloe) -->
 
   ### ☁ Database & Cloud
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?logo=mongodb)
